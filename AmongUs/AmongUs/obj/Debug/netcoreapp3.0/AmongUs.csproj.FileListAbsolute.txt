@@ -1,0 +1,11 @@
+/Users/lieshaouas/RiderProjects/AmongUs/AmongUs/bin/Debug/netcoreapp3.0/AmongUs
+/Users/lieshaouas/RiderProjects/AmongUs/AmongUs/bin/Debug/netcoreapp3.0/AmongUs.deps.json
+/Users/lieshaouas/RiderProjects/AmongUs/AmongUs/bin/Debug/netcoreapp3.0/AmongUs.runtimeconfig.json
+/Users/lieshaouas/RiderProjects/AmongUs/AmongUs/bin/Debug/netcoreapp3.0/AmongUs.runtimeconfig.dev.json
+/Users/lieshaouas/RiderProjects/AmongUs/AmongUs/bin/Debug/netcoreapp3.0/AmongUs.dll
+/Users/lieshaouas/RiderProjects/AmongUs/AmongUs/bin/Debug/netcoreapp3.0/AmongUs.pdb
+/Users/lieshaouas/RiderProjects/AmongUs/AmongUs/obj/Debug/netcoreapp3.0/AmongUs.csprojAssemblyReference.cache
+/Users/lieshaouas/RiderProjects/AmongUs/AmongUs/obj/Debug/netcoreapp3.0/AmongUs.AssemblyInfoInputs.cache
+/Users/lieshaouas/RiderProjects/AmongUs/AmongUs/obj/Debug/netcoreapp3.0/AmongUs.AssemblyInfo.cs
+/Users/lieshaouas/RiderProjects/AmongUs/AmongUs/obj/Debug/netcoreapp3.0/AmongUs.dll
+/Users/lieshaouas/RiderProjects/AmongUs/AmongUs/obj/Debug/netcoreapp3.0/AmongUs.pdb
